@@ -1,4 +1,4 @@
-# [Travelflan](https://www.travelflan.com/) Widget Web Usage Sample For Mayflower
+# [Travelflan](https://www.travelflan.com/) chatbot widget usage sample for mayflower
 
 ## Introduction
 
