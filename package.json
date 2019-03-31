@@ -1,0 +1,14 @@
+{
+  "name": "mayflower-web-sample",
+  "version": "1.0.0",
+  "description": "Mayflower Web Sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tony.yan@travelflan.com",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
