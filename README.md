@@ -15,7 +15,8 @@ then open http://localhost:8080/ in your browser.
 ## Usage
 add this script in the end of your website page.
 ```bash
-npm install
-npm start
+<script src="https://alpha-widget.travelflan.com/loader/mayflower/dist/widget.mayflower.min.js"></script>
+<script>
+  window.TF_CHATBOT.init()
+</script>
 ```
-then open http://localhost:8080/ in your browser.
