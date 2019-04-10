@@ -20,3 +20,17 @@ add this script in the end of your website page.
   window.TF_CHATBOT.init()
 </script>
 ```
+if you want to use this widget in production website, please replace 
+```bash
+<script>
+  window.TF_CHATBOT.init()
+</script>
+```
+with 
+```bash
+<script>
+  window.TF_CHATBOT.init({
+    environment: 'production'
+  })
+</script>
+```
