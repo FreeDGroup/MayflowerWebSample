@@ -20,14 +20,9 @@ add this script in the end of your website page.
   window.TF_CHATBOT.init()
 </script>
 ```
-if you want to use this widget in production website, please replace 
+if you want to use this widget in production website, please use
 ```bash
-<script>
-  window.TF_CHATBOT.init()
-</script>
-```
-with 
-```bash
+<script src="https://widget.travelflan.com/loader/mayflower/dist/widget.mayflower.min.js"></script>
 <script>
   window.TF_CHATBOT.init({
     environment: 'production'
